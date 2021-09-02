@@ -12,5 +12,6 @@ public class Poker {
 	// commit from dev2 branch
 	
 	// 4th commit from dev2 branch
+	// commit from dev3
 }
 

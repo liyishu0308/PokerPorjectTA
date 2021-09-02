@@ -6,5 +6,7 @@ public class Poker {
 	// second commit
 	
 	// commit from dev branch
+	
+	// commit from new dev branch
 }
 

@@ -19,5 +19,7 @@ public class Poker {
 	// update from share drive device2
 	
 	// update from share drive device 3
+	
+	// update from re-start the device
 }
 

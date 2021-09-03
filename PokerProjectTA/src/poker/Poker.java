@@ -16,6 +16,6 @@ public class Poker {
 	
 	// update from share drive
 	
-	// update from share drive device
+	// update from share drive device2
 }
 

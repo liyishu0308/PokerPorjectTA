@@ -23,5 +23,7 @@ public class Poker {
 	// push by mark
 	// push by shu
 	// push by mark on 5:36
+	int a;
+	double b;
 }
 

@@ -25,6 +25,6 @@ public class Poker {
 	// test for conflicts
 	// push by mark on 5:36
 	int a;
-	double b;
+	//wewewe
 }
 

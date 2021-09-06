@@ -26,5 +26,8 @@ public class Poker {
 	// push by mark on 5:36
 	int a;
 	double b;
+	
+	
+	// test for merge
 }
 

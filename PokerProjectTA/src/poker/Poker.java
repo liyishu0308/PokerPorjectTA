@@ -24,10 +24,6 @@ public class Poker {
 	// push by shu
 	// test for conflicts
 	// push by mark on 5:36
-	int a;
-	//wewewe
-	
-	
 	// test for merge
 }
 

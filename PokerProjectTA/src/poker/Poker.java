@@ -36,5 +36,6 @@ public class Poker {
 	// update from re-start the device
 	
 	// test from Branch dev4
+	// test for reset
 }
 

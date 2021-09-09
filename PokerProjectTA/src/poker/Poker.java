@@ -13,6 +13,7 @@ public class Poker {
 	
 	// 4th commit from dev2 branch
 	// commit from dev3
+	
 	// test convert commit
 	// test commit
 	// test commit 2
@@ -25,5 +26,13 @@ public class Poker {
 	// test for conflicts
 	// push by mark on 5:36
 	// test for merge
+	
+	// update from share drive
+	
+	// update from share drive device2
+	
+	// update from share drive device 3
+	
+	// update from re-start the device
 }
 

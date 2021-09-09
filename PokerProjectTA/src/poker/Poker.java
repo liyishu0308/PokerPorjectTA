@@ -37,5 +37,6 @@ public class Poker {
 	
 	// test from Branch dev4
 	// test for reset
+	// new reset
 }
 

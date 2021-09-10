@@ -39,6 +39,6 @@ public class Poker {
 	
 	//change!!!
 	
-	//change again!
+	//change again by Kayley!
 }
 
